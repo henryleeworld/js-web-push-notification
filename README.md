@@ -14,5 +14,5 @@ $ git clone
 ![](https://i.imgur.com/iA39rk1.png)
 > 若使用者授予網站傳送通知的權限，則可建立通知
 
-![](https://i.imgur.com/3Iky0LO.png)
+![](https://i.imgur.com/k6ygeKd.png)
 > 讓網站即使在未載入時也能傳送訊息給使用者。網站能使用這個功能提供使用者推送通知或在背景更新資料
